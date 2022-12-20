@@ -1,0 +1,3 @@
+<ul class="et-social-icons">
+
+<div class="alert alert-danger"><strong>QSandbox Fatal error/exception: </strong> <br/>File: /wp-content/themes/Divi/includes/social_icons.php<br/>Line: 3<br/>Request Id: 1dd0136e3ddedbc29003a9ae58ae1d8c61224821<br/>Theme: Divi<br/></div><br/>If you think this is an error with the platform <a href='https://qsandbox.com/app/?page=contact&subject=Site+Error%3A+s-qv5avwpcffh7.eu1.wpsandbox.org&message=Hi%2C%0A%0A%0ARequested+URL%3A+%2Fwp-content%2Fthemes%2FDivi%2Fincludes%2Fsocial_icons.php%0AID%3A+1dd0136e3ddedbc29003a9ae58ae1d8c61224821' target='_blank'>Contact us </a> so we can look into it.
